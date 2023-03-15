@@ -2,7 +2,7 @@
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
-Este é um projeto para [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Desafios do Frontend Mentor ajudam a melhorar suas habilidades em código através da construção de projetos realistas.
+Este é um projeto [Tip calculator app](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX) do Front End Mentor. Desafios do Frontend Mentor ajudam a melhorar suas habilidades em código através da construção de projetos realistas.
 
 ## Bem Vindos!! 👋
 
