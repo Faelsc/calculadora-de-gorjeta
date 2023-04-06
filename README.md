@@ -12,7 +12,7 @@ Obrigado por checarem esse desafio de código.
 **Para realizar este desafio eu precisei de um entendimento básico de HTML, CSS e JavaScript.**
 
 
-## Table of contents
+## Tabela de Conteúdos
 
 - [Geral](#geral)
   - [O desafio](#o-desafio)
